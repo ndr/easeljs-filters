@@ -4,7 +4,7 @@
  * Written for createljs lib (Copyright (c) 2010 gskinner.com, inc.)
  * Visit http://createjs.com/ for documentation, updates and examples.
  * 
- * Migrated from Multiply fabricJS filiter:
+ * Migrated from Multiply fabricJS filter:
  * http://fabricjs.com/docs/fabric.Image.filters.Multiply.html
  * 
  * Migrated bu Andrii Cherepovskyi	
